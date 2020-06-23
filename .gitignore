@@ -1,5 +1,7 @@
 # Zip files
 *.zip
-
-#Config files:
+# Other file types
+*.exe
+*.resx
+# Config files:
 *.config
