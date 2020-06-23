@@ -1,3 +1,4 @@
+*/*
 # Zip files
 *.zip
 # Other file types
@@ -5,4 +6,4 @@
 *.resx
 # Config files:
 *.config
-*/*
+
