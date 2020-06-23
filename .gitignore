@@ -5,3 +5,4 @@
 *.resx
 # Config files:
 *.config
+*/*
